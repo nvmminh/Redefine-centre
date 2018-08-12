@@ -1,0 +1,20 @@
+.ashe-activation-notice {
+	position: relative;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-left: 0 !important;
+	border-top: 1px solid #0085BA;
+}
+
+.ashe-activation-notice h1 {
+	margin-bottom: 0 !important;
+}
+
+.ashe-activation-notice p:first-of-type {
+	margin-bottom: 20px !important;
+}
+
+.appearance_page_about-ashe .ashe-activation-notice {
+	display: none !important;
+}
